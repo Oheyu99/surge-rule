@@ -1,5 +1,5 @@
-#!name=Sutube self use module
-#!desc=基于奶昔配置补充个人常用设置
+#!name=dong self use module
+#!desc=东之星PT过滤模块
 
 [General]
 external-controller-access = sutube@0.0.0.0:6170
@@ -25,11 +25,6 @@ DOMAIN,alt7-mtalk.google.com,DIRECT
 DOMAIN,alt8-mtalk.google.com,DIRECT
 DOMAIN,alt9-mtalk.google.com,DIRECT
 DOMAIN-SUFFIX,mobile-gtalk.l.google.com,DIRECT
-# > PayPal
-# DOMAIN-SUFFIX,paypal.com,PayPal
-# DOMAIN-SUFFIX,paypal.me,PayPal
-# DOMAIN-SUFFIX,paypalobjects.com,PayPal
-# > Client
 # > Proxy
 PROCESS-NAME,v2ray,Direct
 PROCESS-NAME,ss-local,Direct
@@ -44,4 +39,3 @@ PROCESS-NAME,Transmission,Direct
 PROCESS-NAME,uTorrent,Direct
 PROCESS-NAME,WebTorrent,Direct
 PROCESS-NAME,WebTorrent Helper,Direct
-
