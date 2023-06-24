@@ -9,6 +9,8 @@ http-api-web-dashboard = true
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/htnanako/htnanako/main/self/surge/pt/pt.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/htnanako/htnanako/main/self/surge/pt/pt-tracker.list,DIRECT
+# > ultrahd
+DOMAIN,ultrahd.net,DIRECT
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com,Direct
 # > Google
