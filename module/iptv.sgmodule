@@ -2,9 +2,7 @@
 #!desc=东之星iptv
 
 [General]
-external-controller-access = sutube@0.0.0.0:6170
-http-api = sutube@0.0.0.0:6171
-http-api-web-dashboard = true
+
 rules:
 # 国内
 DOMAIN-SUFFIX,dnsany.com,DIRECT
