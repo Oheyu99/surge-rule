@@ -1,6 +1,5 @@
-#!name=iptv
-#!desc=iptv
-
+#!name=APTV
+#!desc=APTV
 [General]
 
 rules:
